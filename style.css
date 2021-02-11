@@ -1,0 +1,27 @@
+body
+{
+
+    background: rgb(39, 39, 37);
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    
+}
+.date{
+    color:rgba(241, 248, 241, 0.912);
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size:100px;
+display: flex;
+
+position: absolute;
+top: 40%;
+left: 50%;
+transform: translate(-50%,-50%);
+
+}
+.day{
+    margin-top: 180px;
+    font-size: 50px;
+}
+
